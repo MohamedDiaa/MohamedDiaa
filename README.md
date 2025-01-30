@@ -20,7 +20,9 @@
 ![Static Badge](https://img.shields.io/badge/dotnet-blue)
 ![Static Badge](https://img.shields.io/badge/C%23-blue)
 
-[Fame thrigh the years](https://github.com/MohamedDiaa/Fame-Through-The-Years) is a dotnet based webapp using blazor that query sql server using ef framework.
+[Fame throgh the years](https://github.com/MohamedDiaa/Fame-Through-The-Years) a Gallery to Show Celebrities Pictures from their early years to their latest pictures
+
+ using dotnet web based blazor and ef framework.
 
 
 <img width="300" alt="Screenshot 2025-01-30 at 18 33 28" src="https://github.com/user-attachments/assets/813b1143-cc08-4b76-bb3b-551bfef6bdd4" />
