@@ -11,8 +11,16 @@
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 
 
-[TextArtReplica](https://github.com/MohamedDiaa/TextArtReplica) is an iOS app prototype for adding styled texts overlay over your selected picture
+[TextArtReplica](https://github.com/MohamedDiaa/TextArtReplica) is an iOS app prototype for adding styled texts overlay over your selected picture.
 
 <img width="481" alt="Screenshot 2025-01-30 at 17 17 07" src="https://github.com/user-attachments/assets/9d5d9bc1-94e4-492d-bc1f-3f355fb3f07c" />
 
 
+## Fame through the years
+![Static Badge](https://img.shields.io/badge/dotnet-blue)
+![Static Badge](https://img.shields.io/badge/C%23-blue)
+
+[Fame thrigh the years](https://github.com/MohamedDiaa/Fame-Through-The-Years) is a dotnet based webapp using blazor that query sql server using ef framework.
+
+
+<img width="300" alt="Screenshot 2025-01-30 at 18 33 28" src="https://github.com/user-attachments/assets/813b1143-cc08-4b76-bb3b-551bfef6bdd4" />
