@@ -35,18 +35,11 @@ a notepad to post all leetcode problems.
 ![LeetCode_Sharing](https://github.com/user-attachments/assets/760f429c-6abf-46f0-9d9a-e4cc9344553a)
 
 
-## World Flags
-![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+## Wordle Game
 
-# World Flags in SwiftUI
+- Do you love wordle, here is a chance to enjoy the hoppy and challenge your self.
+- Choose between different themes offered in the burger menu button on top right corner.
 
-[World Flags 🌍](https://github.com/MohamedDiaa/WorldFlags-SwiftUI) 
-the purpose of this project is a fun way to experment with SwiftUI while constructing flags using SwiftUI colors and backgrounds. 
-
-# Screenshots
-
-<img width="200" alt="Screenshot 2025-01-30 at 19 56 17" src="https://github.com/user-attachments/assets/0da6a9f8-5fd4-4576-bca9-14b20c383e67" />
-<img width="200" alt="Screenshot 2025-01-30 at 19 56 22" src="https://github.com/user-attachments/assets/90305122-93a5-4b8c-b4a0-3cd44746b959" />
+![nywordle-screen1](https://github.com/user-attachments/assets/49f43175-b977-453b-845a-f9bad04ab628)
 
 
